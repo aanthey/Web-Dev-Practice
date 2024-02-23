@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"name": "Nuclear Launch Codes",
+			"path": "../../Desktop/Nuclear Launch Codes"
+		},
+		{
+			"name": "WebDevCoursework",
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/6.3 CSS Box Model"
+		},
+		{
+			"path": "../../Downloads/7.0 CSS Cascade"
+		},
+		{
+			"path": "../../Downloads/7.1 Combining Selectors"
+		},
+		{
+			"path": "../../Downloads/7.2 CSS Positioning"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Nuclear Launch Codes"
+	}
+}
